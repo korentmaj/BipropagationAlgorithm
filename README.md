@@ -3,6 +3,15 @@
 ## Overview
 Bipropagation is an innovative neural network training algorithm designed for efficiently training deep neural networks, particularly effective in digit classification tasks. This algorithm adopts a unique layer-by-layer training approach, significantly enhancing the learning process's speed and effectiveness.
 
+## Original Repository
+
+Original implementation of the bipropagation algorithm by Bojan Ploj can be found here:
+
+<a href="https://github.com/BojanPLOJ/Bipropagation" target="_blank">
+  <img src="https://img.shields.io/badge/-Access%20Repository-blue?style=for-the-badge&logo=github" alt="Access Repository Button">
+</a>
+
+
 ## Key Features
 - **Layer-by-Layer Training**: Each layer of the neural network is trained individually, allowing for more nuanced adjustments and efficient learning.
 - **Initial Weight Optimization**: Starts with weights close to an identity matrix, ensuring a small initial learning error and faster convergence.
