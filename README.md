@@ -1,7 +1,7 @@
 # Bipropagation Algorithm
 
 ## Overview
-Bipropagation is an innovative neural network training algorithm designed for efficiently training deep neural networks, particularly effective in digit classification tasks. This algorithm adopts a unique layer-by-layer training approach, significantly enhancing the learning process's speed and effectiveness.
+Bipropagation is an innovative neural network training algorithm designed for efficiently training deep neural networks. This algorithm adopts a unique layer-by-layer training approach, significantly enhancing the learning process's speed and effectiveness.
 
 ## Original Repository
 
