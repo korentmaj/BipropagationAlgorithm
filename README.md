@@ -2,6 +2,7 @@
 
 ## Overview
 Bipropagation is an innovative neural network training algorithm designed for efficiently training deep neural networks. This algorithm adopts a unique layer-by-layer training approach, significantly enhancing the learning process's speed and effectiveness.
+
 <a href="https://colab.research.google.com/drive/1S_OPLCpcba9kcUoW2EaG0XHeQxRO7tDn?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/-Access%20on%20Google%20Colab-orange?style=for-the-badge&logo=google-colab" alt="Access on Google Colab Button">
 </a>
