@@ -7,6 +7,16 @@ Bipropagation is an innovative neural network training algorithm designed for ef
   <img src="https://img.shields.io/badge/-Access%20on%20Google%20Colab-orange?style=for-the-badge&logo=google-colab" alt="Access on Google Colab Button">
 </a>
 
+<a href="https://sl.wikipedia.org/wiki/Bipropagation" target="_blank">
+  <img src="https://img.shields.io/badge/-Access%20on%20Wikipedia-black?style=for-the-badge&logo=wikipedia" alt="Access on Wikipedia Button">
+</a>
+
+<a href="https://www.researchgate.net/publication/263656250_Advances_in_Machine_Learning_Research" target="_blank">
+  <img src="https://img.shields.io/badge/-Access%20on%20ResearchGate-blue?style=for-the-badge&logo=researchgate" alt="Access on ResearchGate Button">
+</a>
+
+
+
 ## Original Repository
 
 Original implementation of the bipropagation algorithm by Bojan Ploj can be found here:
