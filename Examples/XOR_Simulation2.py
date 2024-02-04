@@ -1,3 +1,4 @@
+# This is the same code as in the first project, with diffrent structure.
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
