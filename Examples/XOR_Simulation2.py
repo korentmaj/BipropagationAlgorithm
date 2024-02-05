@@ -9,8 +9,8 @@ X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]], dtype=np.float32)
 y = np.array([[0], [1], [1], [0]], dtype=np.float32)
 
 model = Sequential([
-    Dense(8, activation='relu', input_shape=(2,)),  # Increased to 8 neurons in the first layer
-    Dense(4, activation='relu'),  # Added a second hidden layer with 4 neurons
+    Dense(8, activation='relu', input_shape=(2,)),  # Prvi layer 8 nevronov
+    Dense(4, activation='relu'),  # Hidden Layer 4 nevron8
     Dense(1, activation='sigmoid')
 ])
 
@@ -18,7 +18,7 @@ optimizer = Adam(learning_rate=0.01)
 
 model.compile(optimizer=optimizer, loss='binary_crossentropy', metrics=['accuracy'])
 
-model.fit(X, y, epochs=5000, verbose=0)  # Increased to 5000 epochs and set verbose to 0 for less output
+model.fit(X, y, epochs=5000, verbose=0)
 
 print("Evaluating model performance:")
 loss, accuracy = model.evaluate(X, y)
